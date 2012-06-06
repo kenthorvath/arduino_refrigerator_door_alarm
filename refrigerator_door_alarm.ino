@@ -52,7 +52,7 @@ void loop() {
 	}
 }
 
-//Alarm in Hz
+//Piezo Alarm
 void soundAlarm(){
 
 	digitalWrite(piezoAlarmOut, HIGH);
